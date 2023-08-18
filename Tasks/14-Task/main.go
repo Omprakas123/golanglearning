@@ -33,5 +33,5 @@ func main() {
 
 	obj1 := object1.Address.map1
 	fmt.Println("the value of lan and lat", obj1.Lan, obj1.Lat)
-
+     
 }
